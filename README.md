@@ -1,6 +1,6 @@
 # Flutter Story App UI
 
-
+![Scrennshot](Scrennshot.jpg)
 
 ## Getting Started
 
